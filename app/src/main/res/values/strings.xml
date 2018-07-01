@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="NumberOne">1. To convert analogue voice to digital,PCM(Pulse Code Modulation) is employed. This technique comprise of: <i>in the correct order</i>?</string>
+    <string name="OneA">Encoding, Quantising and Sampling</string>
+    <string name="OneB">Quantising, Encoding and Sampling</string>
+    <string name="OneC">Sampling, Quantising and Encoding</string>
+    <string name="OneD">Encoding, Sampling and Quantising</string>
+
+    <string name="NumberTwo">2. According to Nyquist Criterion, in other to prevent distortion of analogue signal during digital conversion, the voice signal has to be sampled at least, to what factor of the maximum frequency of the signal?</string>
+    <string name="TwoA">2 X max. frequency</string>
+    <string name="TwoB">(&#190;) X max. frequency </string>
+    <string name="TwoC">(&#188;) X max. frequency</string>
+    <string name="TwoD">(&#189;) X max. frequency</string>
+
+    <string name="NumberThree">3. A typical telephone signal with maximum frequency at 3400Hz, results in 8000 samples per second. If each sample is encoded as 8 bit word, what is the standard bit rate of a digital voice signal?</string>
+    <string name="ThreeA">1.544Mbps</string>
+    <string name="ThreeB">64Kbps</string>
+    <string name="ThreeC">2.048Mbps</string>
+    <string name="ThreeD">256Kbps</string>
+
+    <string name="NumberFour">4. How many voice channels do we have in T1/E1 digital hierarchies respectively?</string>
+    <string name="FourA">20</string>
+    <string name="FourB">24</string>
+    <string name="FourC">30</string>
+    <string name="FourD">32</string>
+
+
+    <string name="NumberFive">5. What is the bit rate of an STM-1 frame?</string>
+    <string name="FiveA">155Mbps</string>
+    <string name="FiveB">120Mbps</string>
+    <string name="FiveC">100Mbps</string>
+    <string name="FiveD">110Mbps</string>
+
+
+    <string name="NumberSix">6. How many E1s make an STM-1 frame?</string>
+    <string name="SixA">20E1</string>
+    <string name="SixB">70E1</string>
+    <string name="SixC">63E1</string>
+    <string name="SixD">55E1</string>
+
+
+    <string name="hint">Alias</string>
+    <string name="button">Submit</string>
+    <string name="beginQuiz">Begin Quiz</string>
+    <string name="bitRate">Bit Rate</string>
+    <string name="description">and how they are gotten!</string>
+
+</resources>
